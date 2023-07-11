@@ -1,0 +1,20 @@
+{
+    "Number_of_runs":1,
+    "Number_of_cores":4,
+    "Number_of_threads": 128,
+    "Buffer_length":200,
+    "Scheduling_type":1,
+    "Quantum_time":0.01,
+    "Context_switch_overhead":0.0005,
+    "Number_of_users":5,
+    "Total_delays":10,
+    "Mean_service_time":0.027,
+    "Service_time_distribution":3,
+    "Thinktime":1,
+    "Thinktime_distribution":1,
+    "Timeout_time":2,
+    "Timeout_minimum":10,
+    "Timeout_distribution":3
+
+}
+
